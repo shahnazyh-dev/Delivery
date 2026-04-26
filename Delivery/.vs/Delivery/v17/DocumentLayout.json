@@ -5,6 +5,30 @@
     {
       "AbsoluteMoniker": "D:0:0:{7493D3D5-9759-4FE4-ABBC-226EF3932C95}|Delivery\\Delivery.csproj|c:\\users\\shahnazyh\\desktop\\delivery\\delivery\\delivery\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7493D3D5-9759-4FE4-ABBC-226EF3932C95}|Delivery\\Delivery.csproj|solutionrelative:delivery\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7493D3D5-9759-4FE4-ABBC-226EF3932C95}|Delivery\\Delivery.csproj|c:\\users\\shahnazyh\\desktop\\delivery\\delivery\\delivery\\enums\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7493D3D5-9759-4FE4-ABBC-226EF3932C95}|Delivery\\Delivery.csproj|solutionrelative:delivery\\enums\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7493D3D5-9759-4FE4-ABBC-226EF3932C95}|Delivery\\Delivery.csproj|c:\\users\\shahnazyh\\desktop\\delivery\\delivery\\delivery\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7493D3D5-9759-4FE4-ABBC-226EF3932C95}|Delivery\\Delivery.csproj|solutionrelative:delivery\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7493D3D5-9759-4FE4-ABBC-226EF3932C95}|Delivery\\Delivery.csproj|c:\\users\\shahnazyh\\desktop\\delivery\\delivery\\delivery\\models\\courier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7493D3D5-9759-4FE4-ABBC-226EF3932C95}|Delivery\\Delivery.csproj|solutionrelative:delivery\\models\\courier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7493D3D5-9759-4FE4-ABBC-226EF3932C95}|Delivery\\Delivery.csproj|c:\\users\\shahnazyh\\desktop\\delivery\\delivery\\delivery\\helpers\\helper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7493D3D5-9759-4FE4-ABBC-226EF3932C95}|Delivery\\Delivery.csproj|solutionrelative:delivery\\helpers\\helper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7493D3D5-9759-4FE4-ABBC-226EF3932C95}|Delivery\\Delivery.csproj|c:\\users\\shahnazyh\\desktop\\delivery\\delivery\\delivery\\models\\package.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7493D3D5-9759-4FE4-ABBC-226EF3932C95}|Delivery\\Delivery.csproj|solutionrelative:delivery\\models\\package.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7493D3D5-9759-4FE4-ABBC-226EF3932C95}|Delivery\\Delivery.csproj|c:\\users\\shahnazyh\\desktop\\delivery\\delivery\\delivery\\service\\deliveryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7493D3D5-9759-4FE4-ABBC-226EF3932C95}|Delivery\\Delivery.csproj|solutionrelative:delivery\\service\\deliveryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -24,9 +48,87 @@
               "RelativeDocumentMoniker": "Delivery\\Program.cs",
               "ToolTip": "C:\\Users\\shahnazyh\\Desktop\\Delivery\\Delivery\\Delivery\\Program.cs",
               "RelativeToolTip": "Delivery\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-26T09:14:40.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\shahnazyh\\Desktop\\Delivery\\Delivery\\Delivery\\Enums\\Class1.cs",
+              "RelativeDocumentMoniker": "Delivery\\Enums\\Class1.cs",
+              "ToolTip": "C:\\Users\\shahnazyh\\Desktop\\Delivery\\Delivery\\Delivery\\Enums\\Class1.cs",
+              "RelativeToolTip": "Delivery\\Enums\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-26T09:08:45.978Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DeliveryService.cs",
+              "DocumentMoniker": "C:\\Users\\shahnazyh\\Desktop\\Delivery\\Delivery\\Delivery\\Service\\DeliveryService.cs",
+              "RelativeDocumentMoniker": "Delivery\\Service\\DeliveryService.cs",
+              "ToolTip": "C:\\Users\\shahnazyh\\Desktop\\Delivery\\Delivery\\Delivery\\Service\\DeliveryService.cs",
+              "RelativeToolTip": "Delivery\\Service\\DeliveryService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-26T09:08:12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Package.cs",
+              "DocumentMoniker": "C:\\Users\\shahnazyh\\Desktop\\Delivery\\Delivery\\Delivery\\Models\\Package.cs",
+              "RelativeDocumentMoniker": "Delivery\\Models\\Package.cs",
+              "ToolTip": "C:\\Users\\shahnazyh\\Desktop\\Delivery\\Delivery\\Delivery\\Models\\Package.cs",
+              "RelativeToolTip": "Delivery\\Models\\Package.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-26T08:53:14.323Z",
+              "WhenOpened": "2026-04-26T09:01:54.381Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Helper.cs",
+              "DocumentMoniker": "C:\\Users\\shahnazyh\\Desktop\\Delivery\\Delivery\\Delivery\\Helpers\\Helper.cs",
+              "RelativeDocumentMoniker": "Delivery\\Helpers\\Helper.cs",
+              "ToolTip": "C:\\Users\\shahnazyh\\Desktop\\Delivery\\Delivery\\Delivery\\Helpers\\Helper.cs",
+              "RelativeToolTip": "Delivery\\Helpers\\Helper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-26T09:01:43.654Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Courier.cs",
+              "DocumentMoniker": "C:\\Users\\shahnazyh\\Desktop\\Delivery\\Delivery\\Delivery\\Models\\Courier.cs",
+              "RelativeDocumentMoniker": "Delivery\\Models\\Courier.cs",
+              "ToolTip": "C:\\Users\\shahnazyh\\Desktop\\Delivery\\Delivery\\Delivery\\Models\\Courier.cs",
+              "RelativeToolTip": "Delivery\\Models\\Courier.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-26T09:01:33.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\shahnazyh\\Desktop\\Delivery\\Delivery\\Delivery\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "Delivery\\Models\\Customer.cs",
+              "ToolTip": "C:\\Users\\shahnazyh\\Desktop\\Delivery\\Delivery\\Delivery\\Models\\Customer.cs",
+              "RelativeToolTip": "Delivery\\Models\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-26T09:00:52.118Z",
               "EditorCaption": ""
             }
           ]
